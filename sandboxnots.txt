@@ -1,0 +1,3 @@
+These are my notes
+All files with names starting with sandbox will be ignored
+See the gitignore file
